@@ -1,0 +1,1 @@
+This is Up-to-date Hebrew language pack for CodeIgniter PHP framework.
